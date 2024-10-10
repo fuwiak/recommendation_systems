@@ -2,3 +2,4 @@
 /ml-latest-small/
 /.venv/
 /exportToHTML/
+.env
